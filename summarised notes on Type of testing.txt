@@ -1,0 +1,11 @@
+answer for the following in the summarised notes :
+Unit Testing
+What is unit Testing?
+Unit Testing is conducted by _
+
+It is type of (blackbox/whitebox testing)
+Integration Testing
+What is Integration Testing?
+Integration Testing is conducted by _
+
+It is type of (blackbox/whitebox testing)
